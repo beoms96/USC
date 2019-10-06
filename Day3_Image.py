@@ -1,6 +1,6 @@
 import gmaps
 import gmaps.datasets
-gmaps.configure(api_key='AIzaSyCaLk5pUopaL025Ink1AuCSaTIRitdTM40')
+gmaps.configure(api_key='')
 import pandas as pd
 
 locations = []
