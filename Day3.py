@@ -7,7 +7,7 @@ from collections import OrderedDict
 from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim
 
-geolocator = Nominatim(user_agent="Abdullah_Alfarrarjeh_app")
+geolocator = Nominatim(user_agent="")
 
 #location = geolocator.geocode("마포구 임정로 47", addressdetails = True)
 
